@@ -2,7 +2,7 @@
 
 - 👋 Thanks to my experience of eight years in catering, I have refined the my organizational and communication skills precision, which I now apply in mine web developer role. My passion for technology and problem solving come together to create effective web solutions.
 - 🏸 Competitive tennis player!
-- ⚙️ I’m currently learning React and Node.js!
+- ⚙️ I’m currently learning React and TailwindCSS!
 - 📫 Email - antoniominafra.dev@gmail.com
 
 <hr />
@@ -22,10 +22,11 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-C72525?style=flat-square&logo=laravel&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
   <!--
-  <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-B9B900?style=flat-square&logo=express&logoColor=white" />
-  
+  <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-B9B900?style=flat-square&logo=express&logoColor=white"
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> />
+
    -->
 </p>
 <hr />

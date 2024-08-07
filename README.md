@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Thanks to my experience of eight years in catering, I have refined the my organizational and communication skills precision, which I now apply in mine web developer role. My passion for technology and problem solving come together to create effective web solutions.
+- 👋 Thanks to my eight years of experience in catering, I have refined my organizational and communication skills, which I now apply in my role as a web developer. My passion for technology and problem-solving comes together to create effective web solutions.
 - 🏸 Competitive tennis player!
 - ⚙️ I’m currently learning React and TailwindCSS!
 - 📫 Email - antoniominafra.dev@gmail.com

@@ -2,7 +2,7 @@
 
 - 👋 Thanks to my eight years of experience in catering, I have refined my organizational and communication skills, which I now apply in my role as a web developer. My passion for technology and problem-solving comes together to create effective web solutions.
 - 🏸 Competitive tennis player!
-- ⚙️ I’m currently learning React and TailwindCSS!
+- ⚙️ I’m currently learning VueJS!
 - 📫 Email - antoniominafra.dev@gmail.com
 
 <hr />
@@ -14,7 +14,7 @@
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-9b1fde?style=flat-square&logo=bootstrap&logoColor=white" />
    <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-1e04c9?style=flat-square&logo=tailwindcss3&logoColor=white" />
-   <!-- <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> -->
+   <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
 </p>
   <hr />
   Back-end:
